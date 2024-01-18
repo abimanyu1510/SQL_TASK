@@ -1,1 +1,2 @@
-# SQL_TASK
+# SQLBolt
+Learn SQL with simple, interactive exercises.
